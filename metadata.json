@@ -1,0 +1,5 @@
+{
+  "name": "StyleSwap AI",
+  "description": "An AI-powered fashion editor that allows users to change outfits or modify images using natural language prompts powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
